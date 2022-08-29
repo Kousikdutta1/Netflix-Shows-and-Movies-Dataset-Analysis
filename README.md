@@ -1,7 +1,5 @@
 # Netflix-Shows-and-Movies-Dataset-Analysis
-Introduction : 
-
-Analyzing different aspects of Netflix Movies and TV shows with the help of Exploratory data analysis.
+This dataset consists of tv shows and movies available on Netflix as of 2019. Analyzing different aspects of Netflix Movies and TV shows with the help of Exploratory data analysis.
 
 # Steps involved for Exploratory Data Analysis-
 
