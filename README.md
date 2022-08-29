@@ -3,13 +3,15 @@ Introduction :
 
 Analyzing different aspects of Netflix Movies and TV shows with the help of Exploratory data analysis.
 
+# Steps involved for Exploratory Data Analysis-
+
 1. Data Cleaning: I have done data cleaning operations on raw data as there were null values.
 
 2. Data Wrangling: After cleaning data some transformation has also been done for records (Changing Data Types, filling null values ) after which I was able to analyze data more accurately.
 
 3. Exploratory Data Analysis: After Visualizing various aspects of the dataset, I have arrived at multiple
 
-conclusions :
+# conclusions :
 
  ● The most popular content type on Netflix is movies.
  
